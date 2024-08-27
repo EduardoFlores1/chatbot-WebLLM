@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+
+}
+:root{
+  --red: red;
+  --primary:#5800f9;
+  --white: white;
+  --border-radius: 12px;
+  --border-radius-btn: 20px;
+
+  --max-width: 1400px;
+  --font-weight: 700;
+  --font-size-title: 20px;
+  --font-size-name: 18px;
+  --size-precioEspecial: 30px;
+
+  --background-caracteristicas: #f7f7f7;
+  --li-marker: #A7A7A7;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
